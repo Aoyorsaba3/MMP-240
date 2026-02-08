@@ -1,0 +1,24 @@
+body{background-color: #334B89}
+h1, h3, h5, h6, h2, h4 {
+color: #E0BD65;
+font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+body{color: #E7A72C;
+font-family: monospace;
+text-align: left;
+color: #D13631;
+font-size: 15px;
+
+li{display: table-row;
+padding: 10px;
+margin: 0;
+border-style: solid;
+border-width: 2px;
+border-block: whitesmoke;
+}
+
+h1, h2 {
+  font-family: 'Bangers', cursive;
+  letter-spacing: 2px;
+}

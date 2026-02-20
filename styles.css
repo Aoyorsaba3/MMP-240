@@ -1,13 +1,13 @@
-body{background-color: #334B89}
+body{background-color: #055254}
 h1, h3, h5, h6, h2, h4 {
-color: #E0BD65;
-font-family: "Helvetica Neue", Arial, sans-serif;
+color: #F4E9BE;
+font-family: "Playwrite NZ Basic", cursive;
 }
 
-body{color: #E7A72C;
-font-family: monospace;
+body{color: #5FA09D;
+font-family: "Playwrite NZ Basic", cursive;
 text-align: left;
-color: #D13631;
+color: #5FA09D;
 font-size: 15px;
 
 li{display: table-row;
@@ -19,6 +19,24 @@ border-block: whitesmoke;
 }
 
 h1, h2 {
-  font-family: 'Bangers', cursive;
+  font-family: "Playwrite NZ Basic", cursive;
   letter-spacing: 2px;
+}
+
+.playwrite-nz-basic-<uniquifier> {
+  font-family: "Playwrite NZ Basic", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+nav ul {
+    list-style: none;          
+    display: flex;             
+}
+
+nav a {
+    color: white;             
+    text-decoration: none;     
+    font-weight: bold;
 }
